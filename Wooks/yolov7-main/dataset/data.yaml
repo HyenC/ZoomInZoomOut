@@ -1,0 +1,12 @@
+names:
+- human
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: ai7_zizo_final_project
+  url: https://universe.roboflow.com/-ojbhi/ai7_zizo_final_project/dataset/2
+  version: 2
+  workspace: -ojbhi
+test: ../test/images
+train: dataset/train.txt
+val: dataset/val.txt
