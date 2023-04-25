@@ -1,7 +1,0 @@
-streamlit 
-tkinter.tix
-pyparsing
-streamlit
-numpy
-pandas
-PIL
